@@ -9,7 +9,7 @@ Hi, I’m Nadiia 👋
 
 ---
 
-<p align="center">
+<p align="left">
   <em>Made with ❤️, Python, and a lot of coffee ☕</em>
 </p>
 
