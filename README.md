@@ -2,14 +2,13 @@
 
 Hi, I’m Nadiia 👋  
 
-💻 Python | AI | Machine Learning
+💻 **Python | AI | Machine Learning**  
 <br>
 🚀 Learning & building small projects, Kaggle notebooks, and ML experiments.  
 
 ---
 
-▶️ YouTube  
-[Code by Nadiia](https://www.youtube.com/channel/UCIrEhx6DkaWVTssM-IKcgLw/about)  
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIrEhx6DkaWVTssM-IKcgLw/about)
 
 ---
 
