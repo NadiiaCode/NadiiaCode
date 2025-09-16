@@ -8,7 +8,7 @@ Hi, I’m Nadiia 👋
 
 ---
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIrEhx6DkaWVTssM-IKcgLw/about)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodebyNadiia)
 
 ---
 
