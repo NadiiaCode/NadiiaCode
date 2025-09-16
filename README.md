@@ -12,8 +12,6 @@ Hi, I’m Nadiia 👋
 
 ---
 
-<em>Made with ❤️, Python, and a lot of coffee ☕</em>  
-
-</div>
+*Made with ❤️, Python, and a lot of coffee ☕*
 
 
